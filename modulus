@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main()
+{int a;
+printf("enter a number whose mod 2 you want");
+scf("%d",&a);
+printf("mod is %d",a%2);
+}
