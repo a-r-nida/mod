@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
-{int a;
+{int num;
 printf("enter a number whose mod you want");
-scansf("%d",&a);
-printf("mod is %d",a%2);
+scansf("%d",&num);
+printf("mod of %d is = %d",num%2);
 }
